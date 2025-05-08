@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Archivo;
+  src: url("./assets/fonts/Archivo,Inter/Archivo/Archivo-VariableFont_wdth,wght.ttf");
+}
+
+@theme {
+  --font-Archivo: Archivo, "sans-sarif";
+  --color-brand:#7CA2F4;
+  --color-font-color:#121214;
+  --color-background:#F3F7FF
+}
